@@ -1,0 +1,11 @@
+Git log preferred display:  git log --pretty=format:'%h %ad | %s%d [%an]' --graph –date=short
+
+List of preferred common Aliases: 
+
+  co = checkout
+  ci = commit
+  st = status
+  br = branch
+  hist = log --pretty=format:'%h %ad | %s%d [%an]' --graph --date=short
+  type = cat-file -t
+  dump = cat-file -p
