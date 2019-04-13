@@ -1,5 +1,5 @@
 # General
-- Open on your shell with shortcut code, to open current directory specify it as an argument following it, supposing you want to open .zshrc \ execute code ~/.zshrc, for current directory code . should do.
+- Open on your shell with shortcut code, to open current directory specify it as an argument following it, supposing you want to open .zshrc with it execute code ~/.zshrc, for current directory code . should do.
 
 # Front End
 
