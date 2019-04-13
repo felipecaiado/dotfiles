@@ -1,4 +1,6 @@
 # General
+
+## Enhacing workflow
 - Opening VSC on shell: execute code, to open an specific directory add it to the command, supposing you want to open .zshrc with it execute code ~/.zshrc, for current directory code . should do.
 
 # Front End
