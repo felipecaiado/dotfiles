@@ -1,14 +1,14 @@
 # [VSC](https://code.visualstudio.com/)
 
-# General
+## General
 
-## Enhacing workflow tips
+### Enhacing workflow tips
 - Opening VSC on shell: execute code, to open an specific directory add it to the command, supposing you want to open .zshrc run code ~/.zshrc, for the current directory code . should do.
 - Opening shell on VSC: hold ctrl and press ` .
 
-# Front End
+## Front end specifics
 
-## Extensions
+### Extensions
 - [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer) : Easily finds matching brackets.
 - !TODO add a linter here.
 - [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets) : The name speaks for it's self.
