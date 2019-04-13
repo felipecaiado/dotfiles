@@ -15,6 +15,6 @@ If you desire to add automatically there is an npm package called husky that wil
 To add it manyally just follow the four simple steps:
 - 1 - Initialize git
 - 2 - Go to .git/hooks and rename pre-commit.sample to pre-commit as instructed.
-- 3 - Change existing code to become your pre-commit hook, or follow the one found in the [link](https://gist.github.com/rashtay/328da46a99a9d7c746636df1cf769675
+- 3 - Change existing code to become your pre-commit hook, or copy the code found in the [link](https://gist.github.com/rashtay/328da46a99a9d7c746636df1cf769675
 ).
 - 4 - Finally make sure your file is executable, if it isn't change the execute permission.
