@@ -1,5 +1,7 @@
 ## ESLint in VSC
-You can integrate ESLint to VSC by downloading [this extension](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) that integrates ESL, the only prerequisite for it to work is having ESLint in your machine. They also state that: "On new folders you might also need to create a .eslintrc configuration file. You can do this by either using the VS Code command Create ESLint configuration or by running the eslint command in a terminal. If you have installed ESLint globally (see above) then run eslint --init in a terminal. If you have installed ESLint locally then run .\node_modules\.bin\eslint --init under Windows and ./node_modules/.bin/eslint --init under Linux and Mac.
+You can integrate ESLint to VSC by downloading [this extension](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) that integrates ESL, the only prerequisite for it to work is having ESLint in your machine. 
+
+They also state: "On new folders you might also need to create a .eslintrc configuration file. You can do this by either using the VS Code command Create ESLint configuration or by running the eslint command in a terminal. If you have installed ESLint globally (see above) then run eslint --init in a terminal. If you have installed ESLint locally then run .\node_modules\.bin\eslint --init under Windows and ./node_modules/.bin/eslint --init under Linux and Mac.
 "
 
 ## Adding ESLint to pre-commit hooks
