@@ -8,3 +8,6 @@
 ### Front end specifics
 - JS repository: [npm](https://www.npmjs.com/)
 - JS Lint + pre commit hook: [ESLint](https://github.com/felipecaiado/dotfiles/blob/master/ESLint.md)
+
+### Environment aliases
+- [Link](https://github.com/felipecaiado/dotfiles/blob/master/aliases)
