@@ -4,4 +4,4 @@
 - Code editor: [VSC](https://github.com/felipecaiado/dotfiles/blob/master/VSC.md)
 - Version control: [git](https://git-scm.com/)
 - Command Line Tool for git hub: [hub](https://github.com/github/hub#readme)
-- Pre commit hook: [ESLint or/and do it on your own](https://github.com/felipecaiado/dotfiles/blob/master/ESLint.md)
+- JS Lint + pre commit hook: [ESLint](https://github.com/felipecaiado/dotfiles/blob/master/ESLint.md)
