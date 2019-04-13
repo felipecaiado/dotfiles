@@ -1,5 +1,5 @@
 # General
-- Open on your shell with shortcut code, to open current directory specify it as an argument following it, supposing you want to open .zshrc with it execute code ~/.zshrc, for current directory code . should do.
+- Opening VSC on shell: execute code, to open an specific directory add it to the command, supposing you want to open .zshrc with it execute code ~/.zshrc, for current directory code . should do.
 
 # Front End
 
