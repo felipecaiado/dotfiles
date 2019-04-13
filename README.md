@@ -1,6 +1,7 @@
 ## Toolset
 
 - Shell: [oh-my-zsh](http://ohmyz.sh/)
+- JS repository: [npm](https://www.npmjs.com/)
 - Code editor: [VSC](https://github.com/felipecaiado/dotfiles/blob/master/VSC.md)
 - Version control: [git](https://git-scm.com/)
 - Command Line Tool for git hub: [hub](https://github.com/github/hub#readme)
