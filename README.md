@@ -1,4 +1,6 @@
-## Toolset
+# Toolset
+
+## OS
 
 - Shell: [oh-my-zsh](http://ohmyz.sh/)
 - Code editor: [VSC](https://github.com/felipecaiado/dotfiles/blob/master/VSC.md)
@@ -11,3 +13,7 @@
 
 ### Aliases
 - [Link](https://github.com/felipecaiado/dotfiles/blob/master/aliases)
+
+
+## Web Browser
+- React Inspector :[React Developer Tools]https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi/related?hl=en
