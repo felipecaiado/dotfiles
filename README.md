@@ -11,6 +11,7 @@
 - JS repository: [npm](https://www.npmjs.com/)
 - Package manager: [yarn](https://github.com/felipecaiado/dotfiles/blob/master/yarn.md)
 - JS Lint + pre commit hook: [ESLint](https://github.com/felipecaiado/dotfiles/blob/master/ESLint.md)
+- Package bundler: [Webpack](https://webpack.js.org/)
 
 ### Aliases
 - [Link](https://github.com/felipecaiado/dotfiles/blob/master/aliases)
