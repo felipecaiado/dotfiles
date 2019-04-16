@@ -1,3 +1,5 @@
+Work In progresss to be checked
+
 ## ESLint in VSC
 You can integrate ESLint to VSC by downloading [this extension](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) that integrates ESL, the only prerequisite for it to work is having ESLint in your machine. 
 
@@ -18,3 +20,8 @@ To add it manyally just follow the four simple steps:
 - 3 - Change existing code to become your pre-commit hook, or copy the code found in the [link](https://gist.github.com/rashtay/328da46a99a9d7c746636df1cf769675
 ).
 - 4 - Finally make sure your file is executable, if it isn't change the execute permission.
+
+### Initializing eslint in your repository
+- 1 - Type elint --int
+- 2 - When prompted answer in order: 2.1 Use a popular style guide, 2.2 Airbnb, 2.3 Yes, 2.4 JSON
+- 3 - You have just set up eslint in your repo
