@@ -9,7 +9,7 @@
 
 ### Front end specifics
 - JS repository: [npm](https://www.npmjs.com/)
-- Package manager: [yarn](https://yarnpkg.com/en/)
+- Package manager: [yarn](https://github.com/felipecaiado/dotfiles/blob/master/yarn.md)
 - JS Lint + pre commit hook: [ESLint](https://github.com/felipecaiado/dotfiles/blob/master/ESLint.md)
 
 ### Aliases
