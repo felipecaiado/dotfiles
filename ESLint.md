@@ -23,5 +23,5 @@ To add it manyally just follow the four simple steps:
 
 ### Initializing eslint in your repository
 - 1 - Type elint --int
-- 2 - When prompted answer in order: 2.1 Use a popular style guide, 2.2 Airbnb, 2.3 Yes, 2.4 JSON
+- 2 - When prompted answer in order: 2.1 Use a popular style guide, 2.2 Airbnb, 2.3 Yes, 2.4 Java Script
 - 3 - You have just set up eslint in your repo
