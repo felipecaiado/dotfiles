@@ -15,3 +15,4 @@
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer): Watch your HTML page change as you type.
 - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme): Makes icon more vibrant and astheticly pleasing, might help with UI thinking. Extension based on Google's Material Design.
 - [Beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify) : A controversial add-on that enforces a specific code sintax for JS, JSON, CSS, SASS and HTML. Neat helping standardize personal or group code format. When coding alone I do without it. Some people are pretty passionate about it.
+- [Emmet]() : Already built in, learn how to use it, it will enhance your workflow.
