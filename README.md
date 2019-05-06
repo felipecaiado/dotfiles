@@ -1,7 +1,7 @@
 # Toolset
 
 ## OS
-
+- Virtual machine: [VMWare](https://github.com/felipecaiado/dotfiles/blob/master/VMWare.md)
 - Shell: [oh-my-zsh](http://ohmyz.sh/)
 - Code editor: [VSC](https://github.com/felipecaiado/dotfiles/blob/master/VSC.md)
 - Version control: [git](https://git-scm.com/)
