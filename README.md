@@ -17,5 +17,6 @@
 - [Link](https://github.com/felipecaiado/dotfiles/blob/master/aliases)
 
 
-## Web Browser
+## Web Browser Extensions
 - React Inspector: [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi/related?hl=en)
+- [JSON Viewer](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh)
