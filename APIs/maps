@@ -1,1 +1,3 @@
-
+- [Google maps React library](https://github.com/google-map-react/google-map-react)
+- [Google maps API](https://developers.google.com/maps/documentation/): Great for getting an API key
+- [Algolia Places](https://community.algolia.com/places/): API for field name auto complete, focusing on locations
