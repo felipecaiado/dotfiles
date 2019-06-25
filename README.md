@@ -25,3 +25,4 @@
 ## Project APIs and Dependencies
 - [APIs](https://github.com/felipecaiado/dotfiles/tree/master/APIs)
 - [Dependencies](https://github.com/felipecaiado/dotfiles/tree/master/dependencies)
+- [Testing](https://github.com/felipecaiado/dotfiles/blob/master/APIs/testing.md)
