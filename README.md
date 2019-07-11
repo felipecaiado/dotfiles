@@ -26,3 +26,4 @@
 - [APIs](https://github.com/felipecaiado/dotfiles/tree/master/APIs)
 - [Dependencies](https://github.com/felipecaiado/dotfiles/tree/master/dependencies)
 - [Testing](https://github.com/felipecaiado/dotfiles/blob/master/APIs/testing.md)
+- [Fonts](https://github.com/felipecaiado/dotfiles/blob/master/fonts.md)
