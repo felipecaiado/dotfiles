@@ -9,7 +9,7 @@
 ## Front end specifics
 
 ### Extensions
-- [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer) : Easily finds matching brackets.
+- [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2) : Easily finds matching brackets.
 - !TODO add a linter here.
 - [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets) : The name speaks for it's self.
 - [ES7 React/Redux/GraphQL/React-Native code snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets) : Another enlightening name.
