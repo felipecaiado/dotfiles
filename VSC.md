@@ -3,7 +3,7 @@
 ## General
 
 ### Enhacing workflow tips
-- Opening VSC on shell: execute code, to open an specific directory add it to the command, supposing you want to open .zshrc run code ~/.zshrc, for the current directory code . should do.
+- Opening VSC on shell: execute `code`, to open an specific directory add it to the command, supposing you want to open .zshrc run `code ~/.zshrc`, for the current directory `code .` should do.
 - Opening shell on VSC: hold ctrl and press ` .
 
 ## Front end specifics
