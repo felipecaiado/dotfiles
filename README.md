@@ -23,6 +23,8 @@
 - [Redux inspector](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh)
 - [JSON Viewer](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh)
 ### Lifestyle
+- [LastPass](https://www.lastpass.com/): Password Manager
+- [Grammarly](https://app.grammarly.com/): Spell checker
 
 ## Project APIs and Dependencies
 - [APIs](https://github.com/felipecaiado/dotfiles/tree/master/APIs)
