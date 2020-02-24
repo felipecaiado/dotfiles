@@ -18,9 +18,11 @@
 
 
 ## Web Browser Extensions
+### Development
 - [React Inspector](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi/related?hl=en)
 - [Redux inspector](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh)
 - [JSON Viewer](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh)
+### Lifestyle
 
 ## Project APIs and Dependencies
 - [APIs](https://github.com/felipecaiado/dotfiles/tree/master/APIs)
