@@ -25,7 +25,8 @@
 ### Lifestyle
 - [LastPass](https://www.lastpass.com/): Password Manager
 - [Grammarly](https://app.grammarly.com/): Spell checker
-
+- [Ghostery](https://www.ghostery.com/): Privacy Essentials
+- [DuckDuckGo](https://duckduckgo.com/): Privacy Essentials
 ## Project APIs and Dependencies
 - [APIs](https://github.com/felipecaiado/dotfiles/tree/master/APIs)
 - [Dependencies](https://github.com/felipecaiado/dotfiles/tree/master/dependencies)
