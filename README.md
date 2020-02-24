@@ -24,9 +24,10 @@
 - [JSON Viewer](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh)
 ### Lifestyle
 - [LastPass](https://www.lastpass.com/): Password Manager
-- [Grammarly](https://app.grammarly.com/): Spell checker
 - [Ghostery](https://www.ghostery.com/): Privacy Essentials
-- [DuckDuckGo](https://duckduckgo.com/): Privacy Essentials
+- [DuckDuckGo](https://duckduckgo.com/): Search Engine & Privacy Essentials
+- [Grammarly](https://app.grammarly.com/): Spell checker
+
 ## Project APIs and Dependencies
 - [APIs](https://github.com/felipecaiado/dotfiles/tree/master/APIs)
 - [Dependencies](https://github.com/felipecaiado/dotfiles/tree/master/dependencies)
